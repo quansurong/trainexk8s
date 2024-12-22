@@ -1,0 +1,4 @@
+NAME    STATUS   ROLES           AGE   VERSION
+cp1     Ready    control-plane   19m   v1.30.0
+node1   Ready    <none>          16m   v1.30.0
+node2   Ready    <none>          16m   v1.30.0
